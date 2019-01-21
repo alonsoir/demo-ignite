@@ -1,0 +1,1 @@
+This project is a tiny demo to practice with apache ignite and spring-data.
